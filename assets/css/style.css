@@ -107,7 +107,7 @@ h6 {
   justify-content: center;
   align-items: center;
   background: rgba(255, 255, 255, 0.1);
-  color: #14f253;
+  color: #fff;
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
@@ -256,7 +256,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #00e31a;
 }
 
 /**
@@ -352,7 +352,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.3);
   padding: 30px;
 }
 
